@@ -1,0 +1,918 @@
+J:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\appsettings.Development.json
+J:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\appsettings.json
+J:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+J:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\DeluxeModularProTest.exe
+J:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\DeluxeModularProTest.deps.json
+J:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\DeluxeModularProTest.runtimeconfig.json
+J:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\DeluxeModularProTest.runtimeconfig.dev.json
+J:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\DeluxeModularProTest.dll
+J:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\DeluxeModularProTest.pdb
+J:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\DeluxeModularProTest.Views.dll
+J:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\DeluxeModularProTest.Views.pdb
+J:\DeluxeModularProTest\obj\Debug\netcoreapp3.0\staticwebassets\DeluxeModularProTest.StaticWebAssets.Manifest.cache
+J:\DeluxeModularProTest\obj\Debug\netcoreapp3.0\staticwebassets\DeluxeModularProTest.StaticWebAssets.xml
+J:\DeluxeModularProTest\obj\Debug\netcoreapp3.0\DeluxeModularProTest.RazorAssemblyInfo.cache
+J:\DeluxeModularProTest\obj\Debug\netcoreapp3.0\DeluxeModularProTest.RazorAssemblyInfo.cs
+J:\DeluxeModularProTest\obj\Debug\netcoreapp3.0\DeluxeModularProTest.AssemblyInfoInputs.cache
+J:\DeluxeModularProTest\obj\Debug\netcoreapp3.0\DeluxeModularProTest.AssemblyInfo.cs
+J:\DeluxeModularProTest\obj\Debug\netcoreapp3.0\DeluxeModularProTest.TagHelpers.input.cache
+J:\DeluxeModularProTest\obj\Debug\netcoreapp3.0\DeluxeModularProTest.TagHelpers.output.cache
+J:\DeluxeModularProTest\obj\Debug\netcoreapp3.0\DeluxeModularProTest.RazorCoreGenerate.cache
+J:\DeluxeModularProTest\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+J:\DeluxeModularProTest\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+J:\DeluxeModularProTest\obj\Debug\netcoreapp3.0\Razor\Views\_ViewImports.cshtml.g.cs
+J:\DeluxeModularProTest\obj\Debug\netcoreapp3.0\Razor\Views\_ViewStart.cshtml.g.cs
+J:\DeluxeModularProTest\obj\Debug\netcoreapp3.0\DeluxeModularProTest.RazorTargetAssemblyInfo.cache
+J:\DeluxeModularProTest\obj\Debug\netcoreapp3.0\DeluxeModularProTest.RazorTargetAssemblyInfo.cs
+J:\DeluxeModularProTest\obj\Debug\netcoreapp3.0\DeluxeModularProTest.Views.pdb
+J:\DeluxeModularProTest\obj\Debug\netcoreapp3.0\DeluxeModularProTest.dll
+J:\DeluxeModularProTest\obj\Debug\netcoreapp3.0\DeluxeModularProTest.pdb
+J:\DeluxeModularProTest\obj\Debug\netcoreapp3.0\DeluxeModularProTest.csproj.CopyComplete
+J:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\Microsoft.Azure.Cosmos.ServiceInterop.dll
+J:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\Cosmos.CRTCompat.dll
+J:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\Microsoft.Azure.Cosmos.Client.dll
+J:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\Microsoft.Azure.Cosmos.Core.dll
+J:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\Microsoft.Azure.Cosmos.Direct.dll
+J:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\Microsoft.Azure.Cosmos.Serialization.HybridRow.dll
+J:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+J:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+J:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+J:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\System.ServiceModel.Primitives.dll
+J:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\System.ServiceModel.dll
+J:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\Cosmos.CRTCompat.dll
+J:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\Microsoft.Azure.Cosmos.ServiceInterop.dll
+J:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netstandard2.0\System.Private.ServiceModel.dll
+J:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Private.ServiceModel.dll
+J:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+J:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\Microsoft.WindowsAzure.Storage.dll
+J:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+J:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+J:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+J:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Razor.Language.dll
+J:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.dll
+J:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.dll
+J:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+J:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Razor.dll
+J:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Workspaces.dll
+J:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+J:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+J:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+J:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+J:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\dotnet-aspnet-codegenerator-design.dll
+J:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+J:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+J:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+J:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+J:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\NuGet.Frameworks.dll
+J:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\System.Composition.AttributedModel.dll
+J:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\System.Composition.Convention.dll
+J:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\System.Composition.Hosting.dll
+J:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\System.Composition.Runtime.dll
+J:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\System.Composition.TypedParts.dll
+J:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.resources.dll
+J:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.resources.dll
+J:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.resources.dll
+J:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.resources.dll
+J:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.resources.dll
+J:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.resources.dll
+J:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.resources.dll
+J:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.resources.dll
+J:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+J:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.resources.dll
+J:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.resources.dll
+J:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+J:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+J:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+J:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+J:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+J:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+J:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+J:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+J:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+J:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+J:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+J:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+J:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+J:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+J:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+J:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+J:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+J:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+J:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+J:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+J:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+J:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+J:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+J:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+J:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+J:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+J:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+J:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+J:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+J:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+J:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+J:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+J:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+J:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+J:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+J:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+J:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+J:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+J:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+J:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+J:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+J:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+J:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+J:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+J:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+J:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+J:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+J:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+J:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+J:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+J:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+J:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+J:\DeluxeModularProTest\obj\Debug\netcoreapp3.0\Razor\Views\Item\Index.cshtml.g.cs
+D:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\Microsoft.Azure.Cosmos.ServiceInterop.dll
+D:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\Cosmos.CRTCompat.dll
+D:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\appsettings.Development.json
+D:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\appsettings.json
+D:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+D:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\DeluxeModularProTest.exe
+D:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\DeluxeModularProTest.deps.json
+D:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\DeluxeModularProTest.runtimeconfig.json
+D:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\DeluxeModularProTest.runtimeconfig.dev.json
+D:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\DeluxeModularProTest.dll
+D:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\DeluxeModularProTest.pdb
+D:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\DeluxeModularProTest.Views.dll
+D:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\DeluxeModularProTest.Views.pdb
+D:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\Microsoft.Azure.Cosmos.Client.dll
+D:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\Microsoft.Azure.Cosmos.Core.dll
+D:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\Microsoft.Azure.Cosmos.Direct.dll
+D:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\Microsoft.Azure.Cosmos.Serialization.HybridRow.dll
+D:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.dll
+D:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Razor.dll
+D:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+D:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+D:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+D:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\dotnet-aspnet-codegenerator-design.dll
+D:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+D:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\NuGet.Frameworks.dll
+D:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\System.Composition.AttributedModel.dll
+D:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\System.Composition.Convention.dll
+D:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\System.Composition.Hosting.dll
+D:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\System.Composition.Runtime.dll
+D:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\System.Composition.TypedParts.dll
+D:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+D:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+D:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+D:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\System.ServiceModel.Primitives.dll
+D:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\System.ServiceModel.dll
+D:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\Microsoft.WindowsAzure.Storage.dll
+D:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\Cosmos.CRTCompat.dll
+D:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\Microsoft.Azure.Cosmos.ServiceInterop.dll
+D:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+D:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+D:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+D:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netstandard2.0\System.Private.ServiceModel.dll
+D:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Private.ServiceModel.dll
+D:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\DeluxeModularProTest\obj\Debug\netcoreapp3.0\DeluxeModularProTest.csprojAssemblyReference.cache
+D:\DeluxeModularProTest\obj\Debug\netcoreapp3.0\staticwebassets\DeluxeModularProTest.StaticWebAssets.Manifest.cache
+D:\DeluxeModularProTest\obj\Debug\netcoreapp3.0\staticwebassets\DeluxeModularProTest.StaticWebAssets.xml
+D:\DeluxeModularProTest\obj\Debug\netcoreapp3.0\DeluxeModularProTest.RazorAssemblyInfo.cache
+D:\DeluxeModularProTest\obj\Debug\netcoreapp3.0\DeluxeModularProTest.RazorAssemblyInfo.cs
+D:\DeluxeModularProTest\obj\Debug\netcoreapp3.0\DeluxeModularProTest.AssemblyInfoInputs.cache
+D:\DeluxeModularProTest\obj\Debug\netcoreapp3.0\DeluxeModularProTest.AssemblyInfo.cs
+D:\DeluxeModularProTest\obj\Debug\netcoreapp3.0\DeluxeModularProTest.TagHelpers.input.cache
+D:\DeluxeModularProTest\obj\Debug\netcoreapp3.0\DeluxeModularProTest.TagHelpers.output.cache
+D:\DeluxeModularProTest\obj\Debug\netcoreapp3.0\DeluxeModularProTest.RazorCoreGenerate.cache
+D:\DeluxeModularProTest\obj\Debug\netcoreapp3.0\Razor\Views\Item\Create.cshtml.g.cs
+D:\DeluxeModularProTest\obj\Debug\netcoreapp3.0\Razor\Views\Item\Delete.cshtml.g.cs
+D:\DeluxeModularProTest\obj\Debug\netcoreapp3.0\Razor\Views\Item\Details.cshtml.g.cs
+D:\DeluxeModularProTest\obj\Debug\netcoreapp3.0\Razor\Views\Item\Edit.cshtml.g.cs
+D:\DeluxeModularProTest\obj\Debug\netcoreapp3.0\Razor\Views\Item\Index.cshtml.g.cs
+D:\DeluxeModularProTest\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\DeluxeModularProTest\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\DeluxeModularProTest\obj\Debug\netcoreapp3.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\DeluxeModularProTest\obj\Debug\netcoreapp3.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\DeluxeModularProTest\obj\Debug\netcoreapp3.0\DeluxeModularProTest.RazorTargetAssemblyInfo.cache
+D:\DeluxeModularProTest\obj\Debug\netcoreapp3.0\DeluxeModularProTest.RazorTargetAssemblyInfo.cs
+D:\DeluxeModularProTest\obj\Debug\netcoreapp3.0\DeluxeModularProTest.Views.pdb
+D:\DeluxeModularProTest\obj\Debug\netcoreapp3.0\DeluxeModularProTest.csproj.CopyComplete
+D:\DeluxeModularProTest\obj\Debug\netcoreapp3.0\DeluxeModularProTest.dll
+D:\DeluxeModularProTest\obj\Debug\netcoreapp3.0\DeluxeModularProTest.pdb
+D:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\Microsoft.Azure.Search.dll
+D:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\Microsoft.Azure.Search.Common.dll
+D:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\Microsoft.Azure.Search.Data.dll
+D:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\Microsoft.Azure.Search.Service.dll
+D:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\Microsoft.Rest.ClientRuntime.dll
+D:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\Microsoft.Rest.ClientRuntime.Azure.dll
+D:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\Microsoft.Spatial.dll
+D:\DeluxeModularProTest\obj\Debug\netcoreapp3.0\DeluxeModularProTest.MvcApplicationPartsAssemblyInfo.cache
+J:\DeluxeModularProTest\obj\Debug\netcoreapp3.0\DeluxeModularProTest.MvcApplicationPartsAssemblyInfo.cache
+J:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\Microsoft.Azure.Search.dll
+J:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\Microsoft.Azure.Search.Common.dll
+J:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\Microsoft.Azure.Search.Data.dll
+J:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\Microsoft.Azure.Search.Service.dll
+J:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\Microsoft.Rest.ClientRuntime.dll
+J:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\Microsoft.Rest.ClientRuntime.Azure.dll
+J:\DeluxeModularProTest\bin\Debug\netcoreapp3.0\Microsoft.Spatial.dll
+J:\DeluxeModularProTest\obj\Debug\netcoreapp3.0\Razor\Views\Item\Edit.cshtml.g.cs
+J:\DeluxeModularProTest\obj\Debug\netcoreapp3.0\Razor\Views\Item\Create.cshtml.g.cs
+J:\DeluxeModularProTest\obj\Debug\netcoreapp3.0\Razor\Views\Item\Details.cshtml.g.cs
+J:\DeluxeModularProTest\obj\Debug\netcoreapp3.0\Razor\Views\Item\Delete.cshtml.g.cs
+D:\DeluxeWork\DeluxeModularProTest\bin\Debug\netcoreapp3.0\Microsoft.Azure.Cosmos.ServiceInterop.dll
+D:\DeluxeWork\DeluxeModularProTest\bin\Debug\netcoreapp3.0\Cosmos.CRTCompat.dll
+D:\DeluxeWork\DeluxeModularProTest\bin\Debug\netcoreapp3.0\appsettings.Development.json
+D:\DeluxeWork\DeluxeModularProTest\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+D:\DeluxeWork\DeluxeModularProTest\bin\Debug\netcoreapp3.0\appsettings.json
+D:\DeluxeWork\DeluxeModularProTest\bin\Debug\netcoreapp3.0\DeluxeModularProTest.exe
+D:\DeluxeWork\DeluxeModularProTest\bin\Debug\netcoreapp3.0\DeluxeModularProTest.deps.json
+D:\DeluxeWork\DeluxeModularProTest\bin\Debug\netcoreapp3.0\DeluxeModularProTest.runtimeconfig.json
+D:\DeluxeWork\DeluxeModularProTest\bin\Debug\netcoreapp3.0\DeluxeModularProTest.runtimeconfig.dev.json
+D:\DeluxeWork\DeluxeModularProTest\bin\Debug\netcoreapp3.0\DeluxeModularProTest.dll
+D:\DeluxeWork\DeluxeModularProTest\bin\Debug\netcoreapp3.0\DeluxeModularProTest.pdb
+D:\DeluxeWork\DeluxeModularProTest\bin\Debug\netcoreapp3.0\DeluxeModularProTest.Views.dll
+D:\DeluxeWork\DeluxeModularProTest\bin\Debug\netcoreapp3.0\DeluxeModularProTest.Views.pdb
+D:\DeluxeWork\DeluxeModularProTest\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\DeluxeWork\DeluxeModularProTest\bin\Debug\netcoreapp3.0\Microsoft.Azure.Cosmos.Client.dll
+D:\DeluxeWork\DeluxeModularProTest\bin\Debug\netcoreapp3.0\Microsoft.Azure.Cosmos.Core.dll
+D:\DeluxeWork\DeluxeModularProTest\bin\Debug\netcoreapp3.0\Microsoft.Azure.Cosmos.Direct.dll
+D:\DeluxeWork\DeluxeModularProTest\bin\Debug\netcoreapp3.0\Microsoft.Azure.Cosmos.Serialization.HybridRow.dll
+D:\DeluxeWork\DeluxeModularProTest\bin\Debug\netcoreapp3.0\Microsoft.Azure.Search.dll
+D:\DeluxeWork\DeluxeModularProTest\bin\Debug\netcoreapp3.0\Microsoft.Azure.Search.Common.dll
+D:\DeluxeWork\DeluxeModularProTest\bin\Debug\netcoreapp3.0\Microsoft.Azure.Search.Data.dll
+D:\DeluxeWork\DeluxeModularProTest\bin\Debug\netcoreapp3.0\Microsoft.Azure.Search.Service.dll
+D:\DeluxeWork\DeluxeModularProTest\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.dll
+D:\DeluxeWork\DeluxeModularProTest\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\DeluxeWork\DeluxeModularProTest\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\DeluxeWork\DeluxeModularProTest\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Razor.dll
+D:\DeluxeWork\DeluxeModularProTest\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\DeluxeWork\DeluxeModularProTest\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+D:\DeluxeWork\DeluxeModularProTest\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+D:\DeluxeWork\DeluxeModularProTest\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\DeluxeWork\DeluxeModularProTest\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\DeluxeWork\DeluxeModularProTest\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\DeluxeWork\DeluxeModularProTest\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\DeluxeWork\DeluxeModularProTest\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+D:\DeluxeWork\DeluxeModularProTest\bin\Debug\netcoreapp3.0\Microsoft.Rest.ClientRuntime.dll
+D:\DeluxeWork\DeluxeModularProTest\bin\Debug\netcoreapp3.0\Microsoft.Rest.ClientRuntime.Azure.dll
+D:\DeluxeWork\DeluxeModularProTest\bin\Debug\netcoreapp3.0\Microsoft.Spatial.dll
+D:\DeluxeWork\DeluxeModularProTest\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\DeluxeWork\DeluxeModularProTest\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\DeluxeWork\DeluxeModularProTest\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\DeluxeWork\DeluxeModularProTest\bin\Debug\netcoreapp3.0\dotnet-aspnet-codegenerator-design.dll
+D:\DeluxeWork\DeluxeModularProTest\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\DeluxeWork\DeluxeModularProTest\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\DeluxeWork\DeluxeModularProTest\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\DeluxeWork\DeluxeModularProTest\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\DeluxeWork\DeluxeModularProTest\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+D:\DeluxeWork\DeluxeModularProTest\bin\Debug\netcoreapp3.0\NuGet.Frameworks.dll
+D:\DeluxeWork\DeluxeModularProTest\bin\Debug\netcoreapp3.0\System.Composition.AttributedModel.dll
+D:\DeluxeWork\DeluxeModularProTest\bin\Debug\netcoreapp3.0\System.Composition.Convention.dll
+D:\DeluxeWork\DeluxeModularProTest\bin\Debug\netcoreapp3.0\System.Composition.Hosting.dll
+D:\DeluxeWork\DeluxeModularProTest\bin\Debug\netcoreapp3.0\System.Composition.Runtime.dll
+D:\DeluxeWork\DeluxeModularProTest\bin\Debug\netcoreapp3.0\System.Composition.TypedParts.dll
+D:\DeluxeWork\DeluxeModularProTest\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+D:\DeluxeWork\DeluxeModularProTest\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+D:\DeluxeWork\DeluxeModularProTest\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+D:\DeluxeWork\DeluxeModularProTest\bin\Debug\netcoreapp3.0\System.ServiceModel.Primitives.dll
+D:\DeluxeWork\DeluxeModularProTest\bin\Debug\netcoreapp3.0\System.ServiceModel.dll
+D:\DeluxeWork\DeluxeModularProTest\bin\Debug\netcoreapp3.0\Microsoft.WindowsAzure.Storage.dll
+D:\DeluxeWork\DeluxeModularProTest\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\DeluxeWork\DeluxeModularProTest\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\DeluxeWork\DeluxeModularProTest\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\DeluxeWork\DeluxeModularProTest\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\DeluxeWork\DeluxeModularProTest\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\DeluxeWork\DeluxeModularProTest\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\DeluxeWork\DeluxeModularProTest\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\DeluxeWork\DeluxeModularProTest\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\DeluxeWork\DeluxeModularProTest\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\DeluxeWork\DeluxeModularProTest\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\DeluxeWork\DeluxeModularProTest\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\DeluxeWork\DeluxeModularProTest\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\DeluxeWork\DeluxeModularProTest\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\DeluxeWork\DeluxeModularProTest\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DeluxeWork\DeluxeModularProTest\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DeluxeWork\DeluxeModularProTest\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DeluxeWork\DeluxeModularProTest\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DeluxeWork\DeluxeModularProTest\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DeluxeWork\DeluxeModularProTest\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DeluxeWork\DeluxeModularProTest\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DeluxeWork\DeluxeModularProTest\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DeluxeWork\DeluxeModularProTest\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DeluxeWork\DeluxeModularProTest\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DeluxeWork\DeluxeModularProTest\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DeluxeWork\DeluxeModularProTest\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DeluxeWork\DeluxeModularProTest\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DeluxeWork\DeluxeModularProTest\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DeluxeWork\DeluxeModularProTest\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DeluxeWork\DeluxeModularProTest\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DeluxeWork\DeluxeModularProTest\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DeluxeWork\DeluxeModularProTest\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DeluxeWork\DeluxeModularProTest\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DeluxeWork\DeluxeModularProTest\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DeluxeWork\DeluxeModularProTest\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DeluxeWork\DeluxeModularProTest\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DeluxeWork\DeluxeModularProTest\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DeluxeWork\DeluxeModularProTest\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DeluxeWork\DeluxeModularProTest\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DeluxeWork\DeluxeModularProTest\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DeluxeWork\DeluxeModularProTest\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DeluxeWork\DeluxeModularProTest\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DeluxeWork\DeluxeModularProTest\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DeluxeWork\DeluxeModularProTest\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DeluxeWork\DeluxeModularProTest\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DeluxeWork\DeluxeModularProTest\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DeluxeWork\DeluxeModularProTest\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DeluxeWork\DeluxeModularProTest\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DeluxeWork\DeluxeModularProTest\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DeluxeWork\DeluxeModularProTest\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DeluxeWork\DeluxeModularProTest\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DeluxeWork\DeluxeModularProTest\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DeluxeWork\DeluxeModularProTest\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DeluxeWork\DeluxeModularProTest\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\Cosmos.CRTCompat.dll
+D:\DeluxeWork\DeluxeModularProTest\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\Microsoft.Azure.Cosmos.ServiceInterop.dll
+D:\DeluxeWork\DeluxeModularProTest\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\DeluxeWork\DeluxeModularProTest\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\DeluxeWork\DeluxeModularProTest\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+D:\DeluxeWork\DeluxeModularProTest\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+D:\DeluxeWork\DeluxeModularProTest\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+D:\DeluxeWork\DeluxeModularProTest\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netstandard2.0\System.Private.ServiceModel.dll
+D:\DeluxeWork\DeluxeModularProTest\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Private.ServiceModel.dll
+D:\DeluxeWork\DeluxeModularProTest\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\DeluxeWork\DeluxeModularProTest\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\DeluxeWork\DeluxeModularProTest\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\DeluxeWork\DeluxeModularProTest\obj\Debug\netcoreapp3.0\DeluxeModularProTest.csprojAssemblyReference.cache
+D:\DeluxeWork\DeluxeModularProTest\obj\Debug\netcoreapp3.0\staticwebassets\DeluxeModularProTest.StaticWebAssets.Manifest.cache
+D:\DeluxeWork\DeluxeModularProTest\obj\Debug\netcoreapp3.0\staticwebassets\DeluxeModularProTest.StaticWebAssets.xml
+D:\DeluxeWork\DeluxeModularProTest\obj\Debug\netcoreapp3.0\DeluxeModularProTest.MvcApplicationPartsAssemblyInfo.cache
+D:\DeluxeWork\DeluxeModularProTest\obj\Debug\netcoreapp3.0\DeluxeModularProTest.RazorAssemblyInfo.cache
+D:\DeluxeWork\DeluxeModularProTest\obj\Debug\netcoreapp3.0\DeluxeModularProTest.RazorAssemblyInfo.cs
+D:\DeluxeWork\DeluxeModularProTest\obj\Debug\netcoreapp3.0\DeluxeModularProTest.AssemblyInfoInputs.cache
+D:\DeluxeWork\DeluxeModularProTest\obj\Debug\netcoreapp3.0\DeluxeModularProTest.AssemblyInfo.cs
+D:\DeluxeWork\DeluxeModularProTest\obj\Debug\netcoreapp3.0\DeluxeModularProTest.TagHelpers.input.cache
+D:\DeluxeWork\DeluxeModularProTest\obj\Debug\netcoreapp3.0\DeluxeModularProTest.TagHelpers.output.cache
+D:\DeluxeWork\DeluxeModularProTest\obj\Debug\netcoreapp3.0\DeluxeModularProTest.RazorCoreGenerate.cache
+D:\DeluxeWork\DeluxeModularProTest\obj\Debug\netcoreapp3.0\Razor\Views\Item\Create.cshtml.g.cs
+D:\DeluxeWork\DeluxeModularProTest\obj\Debug\netcoreapp3.0\Razor\Views\Item\Delete.cshtml.g.cs
+D:\DeluxeWork\DeluxeModularProTest\obj\Debug\netcoreapp3.0\Razor\Views\Item\Details.cshtml.g.cs
+D:\DeluxeWork\DeluxeModularProTest\obj\Debug\netcoreapp3.0\Razor\Views\Item\Edit.cshtml.g.cs
+D:\DeluxeWork\DeluxeModularProTest\obj\Debug\netcoreapp3.0\Razor\Views\Item\Index.cshtml.g.cs
+D:\DeluxeWork\DeluxeModularProTest\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\DeluxeWork\DeluxeModularProTest\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\DeluxeWork\DeluxeModularProTest\obj\Debug\netcoreapp3.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\DeluxeWork\DeluxeModularProTest\obj\Debug\netcoreapp3.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\DeluxeWork\DeluxeModularProTest\obj\Debug\netcoreapp3.0\DeluxeModularProTest.RazorTargetAssemblyInfo.cache
+D:\DeluxeWork\DeluxeModularProTest\obj\Debug\netcoreapp3.0\DeluxeModularProTest.RazorTargetAssemblyInfo.cs
+D:\DeluxeWork\DeluxeModularProTest\obj\Debug\netcoreapp3.0\DeluxeModularProTest.Views.pdb
+D:\DeluxeWork\DeluxeModularProTest\obj\Debug\netcoreapp3.0\DeluxeModularProTest.csproj.CopyComplete
+D:\DeluxeWork\DeluxeModularProTest\obj\Debug\netcoreapp3.0\DeluxeModularProTest.dll
+D:\DeluxeWork\DeluxeModularProTest\obj\Debug\netcoreapp3.0\DeluxeModularProTest.pdb
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTest - Copy\bin\Debug\netcoreapp3.0\Microsoft.Azure.Cosmos.ServiceInterop.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTest - Copy\bin\Debug\netcoreapp3.0\Cosmos.CRTCompat.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTest - Copy\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTest - Copy\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTest - Copy\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTest - Copy\bin\Debug\netcoreapp3.0\DeluxeModularProTest.exe
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTest - Copy\bin\Debug\netcoreapp3.0\DeluxeModularProTest.deps.json
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTest - Copy\bin\Debug\netcoreapp3.0\DeluxeModularProTest.runtimeconfig.json
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTest - Copy\bin\Debug\netcoreapp3.0\DeluxeModularProTest.runtimeconfig.dev.json
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTest - Copy\bin\Debug\netcoreapp3.0\DeluxeModularProTest.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTest - Copy\bin\Debug\netcoreapp3.0\DeluxeModularProTest.pdb
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTest - Copy\bin\Debug\netcoreapp3.0\DeluxeModularProTest.Views.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTest - Copy\bin\Debug\netcoreapp3.0\DeluxeModularProTest.Views.pdb
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTest - Copy\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTest - Copy\bin\Debug\netcoreapp3.0\Microsoft.Azure.Cosmos.Client.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTest - Copy\bin\Debug\netcoreapp3.0\Microsoft.Azure.Cosmos.Core.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTest - Copy\bin\Debug\netcoreapp3.0\Microsoft.Azure.Cosmos.Direct.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTest - Copy\bin\Debug\netcoreapp3.0\Microsoft.Azure.Cosmos.Serialization.HybridRow.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTest - Copy\bin\Debug\netcoreapp3.0\Microsoft.Azure.Search.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTest - Copy\bin\Debug\netcoreapp3.0\Microsoft.Azure.Search.Common.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTest - Copy\bin\Debug\netcoreapp3.0\Microsoft.Azure.Search.Data.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTest - Copy\bin\Debug\netcoreapp3.0\Microsoft.Azure.Search.Service.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTest - Copy\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTest - Copy\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTest - Copy\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTest - Copy\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTest - Copy\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTest - Copy\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTest - Copy\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTest - Copy\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTest - Copy\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTest - Copy\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTest - Copy\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTest - Copy\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTest - Copy\bin\Debug\netcoreapp3.0\Microsoft.Rest.ClientRuntime.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTest - Copy\bin\Debug\netcoreapp3.0\Microsoft.Rest.ClientRuntime.Azure.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTest - Copy\bin\Debug\netcoreapp3.0\Microsoft.Spatial.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTest - Copy\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTest - Copy\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTest - Copy\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTest - Copy\bin\Debug\netcoreapp3.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTest - Copy\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTest - Copy\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTest - Copy\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTest - Copy\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTest - Copy\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTest - Copy\bin\Debug\netcoreapp3.0\NuGet.Frameworks.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTest - Copy\bin\Debug\netcoreapp3.0\System.Composition.AttributedModel.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTest - Copy\bin\Debug\netcoreapp3.0\System.Composition.Convention.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTest - Copy\bin\Debug\netcoreapp3.0\System.Composition.Hosting.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTest - Copy\bin\Debug\netcoreapp3.0\System.Composition.Runtime.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTest - Copy\bin\Debug\netcoreapp3.0\System.Composition.TypedParts.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTest - Copy\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTest - Copy\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTest - Copy\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTest - Copy\bin\Debug\netcoreapp3.0\System.ServiceModel.Primitives.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTest - Copy\bin\Debug\netcoreapp3.0\System.ServiceModel.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTest - Copy\bin\Debug\netcoreapp3.0\Microsoft.WindowsAzure.Storage.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTest - Copy\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTest - Copy\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTest - Copy\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTest - Copy\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTest - Copy\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTest - Copy\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTest - Copy\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTest - Copy\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTest - Copy\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTest - Copy\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTest - Copy\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTest - Copy\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTest - Copy\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTest - Copy\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTest - Copy\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTest - Copy\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTest - Copy\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTest - Copy\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTest - Copy\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTest - Copy\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTest - Copy\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTest - Copy\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTest - Copy\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTest - Copy\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTest - Copy\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTest - Copy\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTest - Copy\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTest - Copy\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTest - Copy\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTest - Copy\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTest - Copy\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTest - Copy\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTest - Copy\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTest - Copy\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTest - Copy\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTest - Copy\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTest - Copy\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTest - Copy\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTest - Copy\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTest - Copy\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTest - Copy\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTest - Copy\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTest - Copy\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTest - Copy\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTest - Copy\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTest - Copy\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTest - Copy\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTest - Copy\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTest - Copy\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTest - Copy\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTest - Copy\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTest - Copy\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTest - Copy\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\Cosmos.CRTCompat.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTest - Copy\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\Microsoft.Azure.Cosmos.ServiceInterop.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTest - Copy\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTest - Copy\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTest - Copy\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTest - Copy\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTest - Copy\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTest - Copy\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netstandard2.0\System.Private.ServiceModel.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTest - Copy\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Private.ServiceModel.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTest - Copy\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTest - Copy\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTest - Copy\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTest - Copy\obj\Debug\netcoreapp3.0\DeluxeModularProTest.csprojAssemblyReference.cache
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTest - Copy\obj\Debug\netcoreapp3.0\staticwebassets\DeluxeModularProTest.StaticWebAssets.Manifest.cache
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTest - Copy\obj\Debug\netcoreapp3.0\staticwebassets\DeluxeModularProTest.StaticWebAssets.xml
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTest - Copy\obj\Debug\netcoreapp3.0\DeluxeModularProTest.RazorAssemblyInfo.cache
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTest - Copy\obj\Debug\netcoreapp3.0\DeluxeModularProTest.RazorAssemblyInfo.cs
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTest - Copy\obj\Debug\netcoreapp3.0\DeluxeModularProTest.AssemblyInfoInputs.cache
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTest - Copy\obj\Debug\netcoreapp3.0\DeluxeModularProTest.AssemblyInfo.cs
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTest - Copy\obj\Debug\netcoreapp3.0\DeluxeModularProTest.TagHelpers.input.cache
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTest - Copy\obj\Debug\netcoreapp3.0\DeluxeModularProTest.TagHelpers.output.cache
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTest - Copy\obj\Debug\netcoreapp3.0\DeluxeModularProTest.RazorCoreGenerate.cache
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTest - Copy\obj\Debug\netcoreapp3.0\Razor\Views\Item\Create.cshtml.g.cs
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTest - Copy\obj\Debug\netcoreapp3.0\Razor\Views\Item\Delete.cshtml.g.cs
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTest - Copy\obj\Debug\netcoreapp3.0\Razor\Views\Item\Details.cshtml.g.cs
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTest - Copy\obj\Debug\netcoreapp3.0\Razor\Views\Item\Edit.cshtml.g.cs
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTest - Copy\obj\Debug\netcoreapp3.0\Razor\Views\Item\Index.cshtml.g.cs
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTest - Copy\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTest - Copy\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTest - Copy\obj\Debug\netcoreapp3.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTest - Copy\obj\Debug\netcoreapp3.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTest - Copy\obj\Debug\netcoreapp3.0\DeluxeModularProTest.RazorTargetAssemblyInfo.cache
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTest - Copy\obj\Debug\netcoreapp3.0\DeluxeModularProTest.RazorTargetAssemblyInfo.cs
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTest - Copy\obj\Debug\netcoreapp3.0\DeluxeModularProTest.Views.pdb
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTest - Copy\obj\Debug\netcoreapp3.0\DeluxeModularProTest.csproj.CopyComplete
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTest - Copy\obj\Debug\netcoreapp3.0\DeluxeModularProTest.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTest - Copy\obj\Debug\netcoreapp3.0\DeluxeModularProTest.pdb
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTestAthenSSL\bin\Debug\netcoreapp3.0\Microsoft.Azure.Cosmos.ServiceInterop.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTestAthenSSL\bin\Debug\netcoreapp3.0\Cosmos.CRTCompat.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTestAthenSSL\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTestAthenSSL\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTestAthenSSL\bin\Debug\netcoreapp3.0\AppCreationScripts\apps.json
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTestAthenSSL\bin\Debug\netcoreapp3.0\AppCreationScripts\sample.json
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTestAthenSSL\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTestAthenSSL\bin\Debug\netcoreapp3.0\DeluxeModularProTest.exe
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTestAthenSSL\bin\Debug\netcoreapp3.0\DeluxeModularProTest.deps.json
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTestAthenSSL\bin\Debug\netcoreapp3.0\DeluxeModularProTest.runtimeconfig.json
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTestAthenSSL\bin\Debug\netcoreapp3.0\DeluxeModularProTest.runtimeconfig.dev.json
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTestAthenSSL\bin\Debug\netcoreapp3.0\DeluxeModularProTest.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTestAthenSSL\bin\Debug\netcoreapp3.0\DeluxeModularProTest.pdb
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTestAthenSSL\bin\Debug\netcoreapp3.0\DeluxeModularProTest.Views.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTestAthenSSL\bin\Debug\netcoreapp3.0\DeluxeModularProTest.Views.pdb
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTestAthenSSL\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Authentication.AzureAD.UI.Views.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTestAthenSSL\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Authentication.AzureAD.UI.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTestAthenSSL\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTestAthenSSL\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTestAthenSSL\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTestAthenSSL\bin\Debug\netcoreapp3.0\Microsoft.Azure.Cosmos.Client.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTestAthenSSL\bin\Debug\netcoreapp3.0\Microsoft.Azure.Cosmos.Core.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTestAthenSSL\bin\Debug\netcoreapp3.0\Microsoft.Azure.Cosmos.Direct.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTestAthenSSL\bin\Debug\netcoreapp3.0\Microsoft.Azure.Cosmos.Serialization.HybridRow.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTestAthenSSL\bin\Debug\netcoreapp3.0\Microsoft.Azure.Search.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTestAthenSSL\bin\Debug\netcoreapp3.0\Microsoft.Azure.Search.Common.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTestAthenSSL\bin\Debug\netcoreapp3.0\Microsoft.Azure.Search.Data.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTestAthenSSL\bin\Debug\netcoreapp3.0\Microsoft.Azure.Search.Service.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTestAthenSSL\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTestAthenSSL\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTestAthenSSL\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTestAthenSSL\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTestAthenSSL\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTestAthenSSL\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTestAthenSSL\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTestAthenSSL\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTestAthenSSL\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTestAthenSSL\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTestAthenSSL\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTestAthenSSL\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTestAthenSSL\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTestAthenSSL\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTestAthenSSL\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTestAthenSSL\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTestAthenSSL\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTestAthenSSL\bin\Debug\netcoreapp3.0\Microsoft.Rest.ClientRuntime.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTestAthenSSL\bin\Debug\netcoreapp3.0\Microsoft.Rest.ClientRuntime.Azure.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTestAthenSSL\bin\Debug\netcoreapp3.0\Microsoft.Spatial.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTestAthenSSL\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTestAthenSSL\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTestAthenSSL\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTestAthenSSL\bin\Debug\netcoreapp3.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTestAthenSSL\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTestAthenSSL\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTestAthenSSL\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTestAthenSSL\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTestAthenSSL\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTestAthenSSL\bin\Debug\netcoreapp3.0\NuGet.Frameworks.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTestAthenSSL\bin\Debug\netcoreapp3.0\System.Composition.AttributedModel.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTestAthenSSL\bin\Debug\netcoreapp3.0\System.Composition.Convention.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTestAthenSSL\bin\Debug\netcoreapp3.0\System.Composition.Hosting.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTestAthenSSL\bin\Debug\netcoreapp3.0\System.Composition.Runtime.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTestAthenSSL\bin\Debug\netcoreapp3.0\System.Composition.TypedParts.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTestAthenSSL\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTestAthenSSL\bin\Debug\netcoreapp3.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTestAthenSSL\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTestAthenSSL\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTestAthenSSL\bin\Debug\netcoreapp3.0\System.ServiceModel.Primitives.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTestAthenSSL\bin\Debug\netcoreapp3.0\System.ServiceModel.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTestAthenSSL\bin\Debug\netcoreapp3.0\Microsoft.WindowsAzure.Storage.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTestAthenSSL\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTestAthenSSL\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTestAthenSSL\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTestAthenSSL\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTestAthenSSL\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTestAthenSSL\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTestAthenSSL\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTestAthenSSL\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTestAthenSSL\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTestAthenSSL\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTestAthenSSL\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTestAthenSSL\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTestAthenSSL\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTestAthenSSL\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTestAthenSSL\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTestAthenSSL\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTestAthenSSL\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTestAthenSSL\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTestAthenSSL\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTestAthenSSL\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTestAthenSSL\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTestAthenSSL\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTestAthenSSL\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTestAthenSSL\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTestAthenSSL\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTestAthenSSL\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTestAthenSSL\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTestAthenSSL\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTestAthenSSL\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTestAthenSSL\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTestAthenSSL\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTestAthenSSL\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTestAthenSSL\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTestAthenSSL\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTestAthenSSL\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTestAthenSSL\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTestAthenSSL\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTestAthenSSL\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTestAthenSSL\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTestAthenSSL\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTestAthenSSL\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTestAthenSSL\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTestAthenSSL\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTestAthenSSL\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTestAthenSSL\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTestAthenSSL\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTestAthenSSL\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTestAthenSSL\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTestAthenSSL\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTestAthenSSL\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTestAthenSSL\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTestAthenSSL\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTestAthenSSL\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\Cosmos.CRTCompat.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTestAthenSSL\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\Microsoft.Azure.Cosmos.ServiceInterop.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTestAthenSSL\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTestAthenSSL\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTestAthenSSL\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTestAthenSSL\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTestAthenSSL\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTestAthenSSL\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netstandard2.0\System.Private.ServiceModel.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTestAthenSSL\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Private.ServiceModel.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTestAthenSSL\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTestAthenSSL\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTestAthenSSL\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTestAthenSSL\obj\Debug\netcoreapp3.0\DeluxeModularProTest.csprojAssemblyReference.cache
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTestAthenSSL\obj\Debug\netcoreapp3.0\staticwebassets\DeluxeModularProTest.StaticWebAssets.Manifest.cache
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTestAthenSSL\obj\Debug\netcoreapp3.0\staticwebassets\DeluxeModularProTest.StaticWebAssets.xml
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTestAthenSSL\obj\Debug\netcoreapp3.0\DeluxeModularProTest.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTestAthenSSL\obj\Debug\netcoreapp3.0\DeluxeModularProTest.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTestAthenSSL\obj\Debug\netcoreapp3.0\DeluxeModularProTest.RazorAssemblyInfo.cache
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTestAthenSSL\obj\Debug\netcoreapp3.0\DeluxeModularProTest.RazorAssemblyInfo.cs
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTestAthenSSL\obj\Debug\netcoreapp3.0\DeluxeModularProTest.AssemblyInfoInputs.cache
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTestAthenSSL\obj\Debug\netcoreapp3.0\DeluxeModularProTest.AssemblyInfo.cs
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTestAthenSSL\obj\Debug\netcoreapp3.0\DeluxeModularProTest.TagHelpers.input.cache
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTestAthenSSL\obj\Debug\netcoreapp3.0\DeluxeModularProTest.TagHelpers.output.cache
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTestAthenSSL\obj\Debug\netcoreapp3.0\DeluxeModularProTest.RazorCoreGenerate.cache
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTestAthenSSL\obj\Debug\netcoreapp3.0\Razor\Views\Item\Create.cshtml.g.cs
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTestAthenSSL\obj\Debug\netcoreapp3.0\Razor\Views\Item\Delete.cshtml.g.cs
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTestAthenSSL\obj\Debug\netcoreapp3.0\Razor\Views\Item\Details.cshtml.g.cs
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTestAthenSSL\obj\Debug\netcoreapp3.0\Razor\Views\Item\Edit.cshtml.g.cs
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTestAthenSSL\obj\Debug\netcoreapp3.0\Razor\Views\Item\Index.cshtml.g.cs
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTestAthenSSL\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTestAthenSSL\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTestAthenSSL\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTestAthenSSL\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTestAthenSSL\obj\Debug\netcoreapp3.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTestAthenSSL\obj\Debug\netcoreapp3.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTestAthenSSL\obj\Debug\netcoreapp3.0\DeluxeModularProTest.RazorTargetAssemblyInfo.cache
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTestAthenSSL\obj\Debug\netcoreapp3.0\DeluxeModularProTest.RazorTargetAssemblyInfo.cs
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTestAthenSSL\obj\Debug\netcoreapp3.0\DeluxeModularProTest.Views.pdb
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTestAthenSSL\obj\Debug\netcoreapp3.0\DeluxeModularProTest.csproj.CopyComplete
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTestAthenSSL\obj\Debug\netcoreapp3.0\DeluxeModularProTest.dll
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTestAthenSSL\obj\Debug\netcoreapp3.0\DeluxeModularProTest.pdb
+C:\Users\hahas\Desktop\DeluxeWork\DeluxeModularProTestAthenSSL\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_Layout2.cshtml.g.cs
+C:\Users\hahas\Desktop\DeluxeGithub\Webappfordatabases\bin\Debug\netcoreapp3.0\Microsoft.Azure.Cosmos.ServiceInterop.dll
+C:\Users\hahas\Desktop\DeluxeGithub\Webappfordatabases\bin\Debug\netcoreapp3.0\Cosmos.CRTCompat.dll
+C:\Users\hahas\Desktop\DeluxeGithub\Webappfordatabases\bin\Debug\netcoreapp3.0\AppCreationScripts\apps.json
+C:\Users\hahas\Desktop\DeluxeGithub\Webappfordatabases\bin\Debug\netcoreapp3.0\AppCreationScripts\sample.json
+C:\Users\hahas\Desktop\DeluxeGithub\Webappfordatabases\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\hahas\Desktop\DeluxeGithub\Webappfordatabases\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\hahas\Desktop\DeluxeGithub\Webappfordatabases\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Users\hahas\Desktop\DeluxeGithub\Webappfordatabases\bin\Debug\netcoreapp3.0\DeluxeModularProTest.exe
+C:\Users\hahas\Desktop\DeluxeGithub\Webappfordatabases\bin\Debug\netcoreapp3.0\DeluxeModularProTest.deps.json
+C:\Users\hahas\Desktop\DeluxeGithub\Webappfordatabases\bin\Debug\netcoreapp3.0\DeluxeModularProTest.runtimeconfig.json
+C:\Users\hahas\Desktop\DeluxeGithub\Webappfordatabases\bin\Debug\netcoreapp3.0\DeluxeModularProTest.runtimeconfig.dev.json
+C:\Users\hahas\Desktop\DeluxeGithub\Webappfordatabases\bin\Debug\netcoreapp3.0\DeluxeModularProTest.dll
+C:\Users\hahas\Desktop\DeluxeGithub\Webappfordatabases\bin\Debug\netcoreapp3.0\DeluxeModularProTest.pdb
+C:\Users\hahas\Desktop\DeluxeGithub\Webappfordatabases\bin\Debug\netcoreapp3.0\DeluxeModularProTest.Views.dll
+C:\Users\hahas\Desktop\DeluxeGithub\Webappfordatabases\bin\Debug\netcoreapp3.0\DeluxeModularProTest.Views.pdb
+C:\Users\hahas\Desktop\DeluxeGithub\Webappfordatabases\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Authentication.AzureAD.UI.Views.dll
+C:\Users\hahas\Desktop\DeluxeGithub\Webappfordatabases\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Authentication.AzureAD.UI.dll
+C:\Users\hahas\Desktop\DeluxeGithub\Webappfordatabases\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\hahas\Desktop\DeluxeGithub\Webappfordatabases\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\hahas\Desktop\DeluxeGithub\Webappfordatabases\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\hahas\Desktop\DeluxeGithub\Webappfordatabases\bin\Debug\netcoreapp3.0\Microsoft.Azure.Cosmos.Client.dll
+C:\Users\hahas\Desktop\DeluxeGithub\Webappfordatabases\bin\Debug\netcoreapp3.0\Microsoft.Azure.Cosmos.Core.dll
+C:\Users\hahas\Desktop\DeluxeGithub\Webappfordatabases\bin\Debug\netcoreapp3.0\Microsoft.Azure.Cosmos.Direct.dll
+C:\Users\hahas\Desktop\DeluxeGithub\Webappfordatabases\bin\Debug\netcoreapp3.0\Microsoft.Azure.Cosmos.Serialization.HybridRow.dll
+C:\Users\hahas\Desktop\DeluxeGithub\Webappfordatabases\bin\Debug\netcoreapp3.0\Microsoft.Azure.Search.dll
+C:\Users\hahas\Desktop\DeluxeGithub\Webappfordatabases\bin\Debug\netcoreapp3.0\Microsoft.Azure.Search.Common.dll
+C:\Users\hahas\Desktop\DeluxeGithub\Webappfordatabases\bin\Debug\netcoreapp3.0\Microsoft.Azure.Search.Data.dll
+C:\Users\hahas\Desktop\DeluxeGithub\Webappfordatabases\bin\Debug\netcoreapp3.0\Microsoft.Azure.Search.Service.dll
+C:\Users\hahas\Desktop\DeluxeGithub\Webappfordatabases\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.dll
+C:\Users\hahas\Desktop\DeluxeGithub\Webappfordatabases\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\hahas\Desktop\DeluxeGithub\Webappfordatabases\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\hahas\Desktop\DeluxeGithub\Webappfordatabases\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\hahas\Desktop\DeluxeGithub\Webappfordatabases\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\hahas\Desktop\DeluxeGithub\Webappfordatabases\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+C:\Users\hahas\Desktop\DeluxeGithub\Webappfordatabases\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\hahas\Desktop\DeluxeGithub\Webappfordatabases\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\hahas\Desktop\DeluxeGithub\Webappfordatabases\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\hahas\Desktop\DeluxeGithub\Webappfordatabases\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\hahas\Desktop\DeluxeGithub\Webappfordatabases\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\hahas\Desktop\DeluxeGithub\Webappfordatabases\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+C:\Users\hahas\Desktop\DeluxeGithub\Webappfordatabases\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\hahas\Desktop\DeluxeGithub\Webappfordatabases\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\hahas\Desktop\DeluxeGithub\Webappfordatabases\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\hahas\Desktop\DeluxeGithub\Webappfordatabases\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\hahas\Desktop\DeluxeGithub\Webappfordatabases\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\hahas\Desktop\DeluxeGithub\Webappfordatabases\bin\Debug\netcoreapp3.0\Microsoft.Rest.ClientRuntime.dll
+C:\Users\hahas\Desktop\DeluxeGithub\Webappfordatabases\bin\Debug\netcoreapp3.0\Microsoft.Rest.ClientRuntime.Azure.dll
+C:\Users\hahas\Desktop\DeluxeGithub\Webappfordatabases\bin\Debug\netcoreapp3.0\Microsoft.Spatial.dll
+C:\Users\hahas\Desktop\DeluxeGithub\Webappfordatabases\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\hahas\Desktop\DeluxeGithub\Webappfordatabases\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\hahas\Desktop\DeluxeGithub\Webappfordatabases\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\hahas\Desktop\DeluxeGithub\Webappfordatabases\bin\Debug\netcoreapp3.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\hahas\Desktop\DeluxeGithub\Webappfordatabases\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\hahas\Desktop\DeluxeGithub\Webappfordatabases\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\hahas\Desktop\DeluxeGithub\Webappfordatabases\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\hahas\Desktop\DeluxeGithub\Webappfordatabases\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\hahas\Desktop\DeluxeGithub\Webappfordatabases\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\hahas\Desktop\DeluxeGithub\Webappfordatabases\bin\Debug\netcoreapp3.0\NuGet.Frameworks.dll
+C:\Users\hahas\Desktop\DeluxeGithub\Webappfordatabases\bin\Debug\netcoreapp3.0\System.Composition.AttributedModel.dll
+C:\Users\hahas\Desktop\DeluxeGithub\Webappfordatabases\bin\Debug\netcoreapp3.0\System.Composition.Convention.dll
+C:\Users\hahas\Desktop\DeluxeGithub\Webappfordatabases\bin\Debug\netcoreapp3.0\System.Composition.Hosting.dll
+C:\Users\hahas\Desktop\DeluxeGithub\Webappfordatabases\bin\Debug\netcoreapp3.0\System.Composition.Runtime.dll
+C:\Users\hahas\Desktop\DeluxeGithub\Webappfordatabases\bin\Debug\netcoreapp3.0\System.Composition.TypedParts.dll
+C:\Users\hahas\Desktop\DeluxeGithub\Webappfordatabases\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+C:\Users\hahas\Desktop\DeluxeGithub\Webappfordatabases\bin\Debug\netcoreapp3.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\hahas\Desktop\DeluxeGithub\Webappfordatabases\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+C:\Users\hahas\Desktop\DeluxeGithub\Webappfordatabases\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hahas\Desktop\DeluxeGithub\Webappfordatabases\bin\Debug\netcoreapp3.0\System.ServiceModel.Primitives.dll
+C:\Users\hahas\Desktop\DeluxeGithub\Webappfordatabases\bin\Debug\netcoreapp3.0\System.ServiceModel.dll
+C:\Users\hahas\Desktop\DeluxeGithub\Webappfordatabases\bin\Debug\netcoreapp3.0\Microsoft.WindowsAzure.Storage.dll
+C:\Users\hahas\Desktop\DeluxeGithub\Webappfordatabases\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hahas\Desktop\DeluxeGithub\Webappfordatabases\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hahas\Desktop\DeluxeGithub\Webappfordatabases\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hahas\Desktop\DeluxeGithub\Webappfordatabases\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hahas\Desktop\DeluxeGithub\Webappfordatabases\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hahas\Desktop\DeluxeGithub\Webappfordatabases\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hahas\Desktop\DeluxeGithub\Webappfordatabases\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hahas\Desktop\DeluxeGithub\Webappfordatabases\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hahas\Desktop\DeluxeGithub\Webappfordatabases\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hahas\Desktop\DeluxeGithub\Webappfordatabases\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hahas\Desktop\DeluxeGithub\Webappfordatabases\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hahas\Desktop\DeluxeGithub\Webappfordatabases\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hahas\Desktop\DeluxeGithub\Webappfordatabases\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hahas\Desktop\DeluxeGithub\Webappfordatabases\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hahas\Desktop\DeluxeGithub\Webappfordatabases\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hahas\Desktop\DeluxeGithub\Webappfordatabases\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hahas\Desktop\DeluxeGithub\Webappfordatabases\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hahas\Desktop\DeluxeGithub\Webappfordatabases\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hahas\Desktop\DeluxeGithub\Webappfordatabases\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hahas\Desktop\DeluxeGithub\Webappfordatabases\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hahas\Desktop\DeluxeGithub\Webappfordatabases\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hahas\Desktop\DeluxeGithub\Webappfordatabases\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hahas\Desktop\DeluxeGithub\Webappfordatabases\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hahas\Desktop\DeluxeGithub\Webappfordatabases\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hahas\Desktop\DeluxeGithub\Webappfordatabases\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hahas\Desktop\DeluxeGithub\Webappfordatabases\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hahas\Desktop\DeluxeGithub\Webappfordatabases\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hahas\Desktop\DeluxeGithub\Webappfordatabases\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hahas\Desktop\DeluxeGithub\Webappfordatabases\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hahas\Desktop\DeluxeGithub\Webappfordatabases\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hahas\Desktop\DeluxeGithub\Webappfordatabases\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hahas\Desktop\DeluxeGithub\Webappfordatabases\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hahas\Desktop\DeluxeGithub\Webappfordatabases\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hahas\Desktop\DeluxeGithub\Webappfordatabases\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hahas\Desktop\DeluxeGithub\Webappfordatabases\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hahas\Desktop\DeluxeGithub\Webappfordatabases\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hahas\Desktop\DeluxeGithub\Webappfordatabases\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hahas\Desktop\DeluxeGithub\Webappfordatabases\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hahas\Desktop\DeluxeGithub\Webappfordatabases\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hahas\Desktop\DeluxeGithub\Webappfordatabases\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hahas\Desktop\DeluxeGithub\Webappfordatabases\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hahas\Desktop\DeluxeGithub\Webappfordatabases\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hahas\Desktop\DeluxeGithub\Webappfordatabases\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hahas\Desktop\DeluxeGithub\Webappfordatabases\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hahas\Desktop\DeluxeGithub\Webappfordatabases\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hahas\Desktop\DeluxeGithub\Webappfordatabases\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hahas\Desktop\DeluxeGithub\Webappfordatabases\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hahas\Desktop\DeluxeGithub\Webappfordatabases\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hahas\Desktop\DeluxeGithub\Webappfordatabases\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hahas\Desktop\DeluxeGithub\Webappfordatabases\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hahas\Desktop\DeluxeGithub\Webappfordatabases\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hahas\Desktop\DeluxeGithub\Webappfordatabases\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hahas\Desktop\DeluxeGithub\Webappfordatabases\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\Cosmos.CRTCompat.dll
+C:\Users\hahas\Desktop\DeluxeGithub\Webappfordatabases\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\Microsoft.Azure.Cosmos.ServiceInterop.dll
+C:\Users\hahas\Desktop\DeluxeGithub\Webappfordatabases\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\hahas\Desktop\DeluxeGithub\Webappfordatabases\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\hahas\Desktop\DeluxeGithub\Webappfordatabases\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+C:\Users\hahas\Desktop\DeluxeGithub\Webappfordatabases\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+C:\Users\hahas\Desktop\DeluxeGithub\Webappfordatabases\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+C:\Users\hahas\Desktop\DeluxeGithub\Webappfordatabases\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netstandard2.0\System.Private.ServiceModel.dll
+C:\Users\hahas\Desktop\DeluxeGithub\Webappfordatabases\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Private.ServiceModel.dll
+C:\Users\hahas\Desktop\DeluxeGithub\Webappfordatabases\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\hahas\Desktop\DeluxeGithub\Webappfordatabases\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\hahas\Desktop\DeluxeGithub\Webappfordatabases\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hahas\Desktop\DeluxeGithub\Webappfordatabases\obj\Debug\netcoreapp3.0\DeluxeModularProTest.csprojAssemblyReference.cache
+C:\Users\hahas\Desktop\DeluxeGithub\Webappfordatabases\obj\Debug\netcoreapp3.0\staticwebassets\DeluxeModularProTest.StaticWebAssets.Manifest.cache
+C:\Users\hahas\Desktop\DeluxeGithub\Webappfordatabases\obj\Debug\netcoreapp3.0\staticwebassets\DeluxeModularProTest.StaticWebAssets.xml
+C:\Users\hahas\Desktop\DeluxeGithub\Webappfordatabases\obj\Debug\netcoreapp3.0\DeluxeModularProTest.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\hahas\Desktop\DeluxeGithub\Webappfordatabases\obj\Debug\netcoreapp3.0\DeluxeModularProTest.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hahas\Desktop\DeluxeGithub\Webappfordatabases\obj\Debug\netcoreapp3.0\DeluxeModularProTest.RazorAssemblyInfo.cache
+C:\Users\hahas\Desktop\DeluxeGithub\Webappfordatabases\obj\Debug\netcoreapp3.0\DeluxeModularProTest.RazorAssemblyInfo.cs
+C:\Users\hahas\Desktop\DeluxeGithub\Webappfordatabases\obj\Debug\netcoreapp3.0\DeluxeModularProTest.AssemblyInfoInputs.cache
+C:\Users\hahas\Desktop\DeluxeGithub\Webappfordatabases\obj\Debug\netcoreapp3.0\DeluxeModularProTest.AssemblyInfo.cs
+C:\Users\hahas\Desktop\DeluxeGithub\Webappfordatabases\obj\Debug\netcoreapp3.0\DeluxeModularProTest.TagHelpers.input.cache
+C:\Users\hahas\Desktop\DeluxeGithub\Webappfordatabases\obj\Debug\netcoreapp3.0\DeluxeModularProTest.TagHelpers.output.cache
+C:\Users\hahas\Desktop\DeluxeGithub\Webappfordatabases\obj\Debug\netcoreapp3.0\DeluxeModularProTest.RazorCoreGenerate.cache
+C:\Users\hahas\Desktop\DeluxeGithub\Webappfordatabases\obj\Debug\netcoreapp3.0\Razor\Views\Item\Create.cshtml.g.cs
+C:\Users\hahas\Desktop\DeluxeGithub\Webappfordatabases\obj\Debug\netcoreapp3.0\Razor\Views\Item\Delete.cshtml.g.cs
+C:\Users\hahas\Desktop\DeluxeGithub\Webappfordatabases\obj\Debug\netcoreapp3.0\Razor\Views\Item\Details.cshtml.g.cs
+C:\Users\hahas\Desktop\DeluxeGithub\Webappfordatabases\obj\Debug\netcoreapp3.0\Razor\Views\Item\Edit.cshtml.g.cs
+C:\Users\hahas\Desktop\DeluxeGithub\Webappfordatabases\obj\Debug\netcoreapp3.0\Razor\Views\Item\Index.cshtml.g.cs
+C:\Users\hahas\Desktop\DeluxeGithub\Webappfordatabases\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\hahas\Desktop\DeluxeGithub\Webappfordatabases\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\hahas\Desktop\DeluxeGithub\Webappfordatabases\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_Layout2.cshtml.g.cs
+C:\Users\hahas\Desktop\DeluxeGithub\Webappfordatabases\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\hahas\Desktop\DeluxeGithub\Webappfordatabases\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\hahas\Desktop\DeluxeGithub\Webappfordatabases\obj\Debug\netcoreapp3.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\hahas\Desktop\DeluxeGithub\Webappfordatabases\obj\Debug\netcoreapp3.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\hahas\Desktop\DeluxeGithub\Webappfordatabases\obj\Debug\netcoreapp3.0\DeluxeModularProTest.RazorTargetAssemblyInfo.cache
+C:\Users\hahas\Desktop\DeluxeGithub\Webappfordatabases\obj\Debug\netcoreapp3.0\DeluxeModularProTest.RazorTargetAssemblyInfo.cs
+C:\Users\hahas\Desktop\DeluxeGithub\Webappfordatabases\obj\Debug\netcoreapp3.0\DeluxeModularProTest.Views.pdb
+C:\Users\hahas\Desktop\DeluxeGithub\Webappfordatabases\obj\Debug\netcoreapp3.0\DeluxeModularProTest.csproj.CopyComplete
+C:\Users\hahas\Desktop\DeluxeGithub\Webappfordatabases\obj\Debug\netcoreapp3.0\DeluxeModularProTest.dll
+C:\Users\hahas\Desktop\DeluxeGithub\Webappfordatabases\obj\Debug\netcoreapp3.0\DeluxeModularProTest.pdb

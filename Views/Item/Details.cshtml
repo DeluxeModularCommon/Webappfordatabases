@@ -1,0 +1,144 @@
+﻿@model DeluxeModularProTest.Models.Item
+
+@{
+    ViewData["Title"] = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<h1>Details</h1>
+
+<div>
+    <h4>Item</h4>
+    <hr />
+    <dl class="column">
+        <dt>
+            @Html.DisplayNameFor(model => model.ProductID)
+        </dt>
+        <dd >
+            @Html.DisplayFor(model => model.ProductID)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.ProductName)
+        </dt>
+        <dd >
+            @Html.DisplayFor(model => model.ProductName)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.ManufactorID)
+        </dt>
+        <dd >
+            @Html.DisplayFor(model => model.ManufactorID)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.CSICode)
+        </dt>
+        <dd >
+            @Html.DisplayFor(model => model.CSICode)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.ProdCategory)
+        </dt>
+        <dd >
+            @Html.DisplayFor(model => model.ProdCategory)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.ProdType)
+        </dt>
+        <dd >
+            @Html.DisplayFor(model => model.ProdType)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.ProdMaterial)
+        </dt>
+        <dd >
+            @Html.DisplayFor(model => model.ProdMaterial)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.PerformanceReq)
+        </dt>
+        <dd >
+            @Html.DisplayFor(model => model.PerformanceReq)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Color)
+        </dt>
+        <dd >
+            @Html.DisplayFor(model => model.Color)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Texture)
+        </dt>
+        <dd >
+            @Html.DisplayFor(model => model.Texture)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Shape)
+        </dt>
+        <dd >
+            @Html.DisplayFor(model => model.Shape)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Dimension)
+        </dt>
+        <dd >
+            @Html.DisplayFor(model => model.Dimension)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.BIMObject)
+        </dt>
+        <dd >
+            @Html.DisplayFor(model => model.BIMObject)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.InstallationType)
+        </dt>
+        <dd >
+            @Html.DisplayFor(model => model.InstallationType)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.DataSheet)
+        </dt>
+        <dd >
+            @Html.DisplayFor(model => model.DataSheet)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.SafetySheet)
+        </dt>
+        <dd >
+            @Html.DisplayFor(model => model.SafetySheet)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.ContactName)
+        </dt>
+        <dd >
+            @Html.DisplayFor(model => model.ContactName)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.ContactTitle)
+        </dt>
+        <dd >
+            @Html.DisplayFor(model => model.ContactTitle)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.ContactPhone)
+        </dt>
+        <dd >
+            @Html.DisplayFor(model => model.ContactPhone)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.ContactEmail)
+        </dt>
+        <dd >
+            @Html.DisplayFor(model => model.ContactEmail)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Inventory)
+        </dt>
+        <dd >
+            @Html.DisplayFor(model => model.Inventory)
+        </dd>
+    </dl>
+</div>
+<div>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.Id }) |
+    <a asp-action="Index">Back to List</a>
+</div>

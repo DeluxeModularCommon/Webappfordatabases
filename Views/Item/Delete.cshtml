@@ -1,0 +1,147 @@
+﻿@model DeluxeModularProTest.Models.Item
+
+@{
+    ViewData["Title"] = "Delete";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Delete</h1>
+
+<h3>Are you sure you want to delete this?</h3>
+<div>
+    <h4>Item</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.ProductID)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.ProductID)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.ProductName)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.ProductName)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.ManufactorID)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.ManufactorID)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.CSICode)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.CSICode)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.ProdCategory)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.ProdCategory)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.ProdType)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.ProdType)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.ProdMaterial)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.ProdMaterial)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.PerformanceReq)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.PerformanceReq)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Color)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Color)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Texture)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Texture)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Shape)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Shape)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Dimension)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Dimension)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.BIMObject)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.BIMObject)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.InstallationType)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.InstallationType)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.DataSheet)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.DataSheet)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.SafetySheet)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.SafetySheet)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.ContactName)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.ContactName)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.ContactTitle)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.ContactTitle)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.ContactPhone)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.ContactPhone)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.ContactEmail)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.ContactEmail)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Inventory)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Inventory)
+        </dd>
+    </dl>
+    
+    <form asp-action="Delete">
+        <input type="submit" value="Delete" class="btn btn-danger" /> |
+        <a asp-action="Index">Back to List</a>
+    </form>
+</div>
